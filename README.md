@@ -1,5 +1,3 @@
-# Python-FizzBuzz
-
 # Python FizzBuzz Program
 
 ### About
